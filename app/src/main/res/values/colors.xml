@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="green_light">#e5f2ad</color>
+
+
+    <color name="itv_turquoise_light">#19BEC8</color>
+    <color name="itv_mauve_itvbe">#B279AD</color>
+    <color name="itv_red">#E8052B</color>
+    <color name="itv_dark_green">#009E79</color>
+    <color name="itv_purple">#4B56A6</color>
+    <color name="itv_purple_dark">#3c3e7d</color>
+    <color name="itv4_grey">#879BA5</color>
+    <color name="itv_orange">#E87509</color>
+
+</resources>
